@@ -1,8 +1,7 @@
 # 🏆 Inteli - Hackathon - Onboarding 2025 - AI Advisor #
 
 ### **🔗 Link do Agente GPT:**  
-> _[Insira o link do GPT criado aqui.]_
-
+> _[(https://chatgpt.com/g/g-67992d6c586881918ac5795eef095b32-lidera-ai)]_
 ---
 
 ## **👥 Integrantes do Grupo**  
@@ -14,9 +13,9 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-> O AI Advisor pretende capacitar profissionais de tecnologia a desenvolverem habilidades de liderança, ajudando-os a crescer em suas carreiras.
-> 🎯 O seu propósito é guiar a transição de profissionais técnicos para papéis de liderança, conectando competências ténicas a habilidades de gestão, comunicação e estratégia, buscando trabalhar de acordo com o perfil do usuário atendido.
-> 🚀 O agente busca transformar profissionais técnicos em líderes visionários, promovendo inovação e evolução no setor de tecnologia.
+> # O AI Advisor pretende capacitar profissionais de tecnologia a desenvolverem habilidades de liderança, ajudando-os a crescer em suas carreiras.
+> # 🎯 O seu propósito é guiar a transição de profissionais técnicos para papéis de liderança, conectando competências ténicas a habilidades de gestão, comunicação e estratégia, buscando trabalhar de acordo com o perfil do usuário atendido.
+> # 🚀 O agente busca transformar profissionais técnicos em líderes visionários, promovendo inovação e evolução no setor de tecnologia.
 
 ---
 
