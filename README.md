@@ -13,7 +13,7 @@
 ---
 
 ## **📄 Descrição do Projeto**  
-> O Lidera AI é um agente do Chat GPT que visa auxiliar tanto jovens empreendedores a se tornarem novos líderes em tecnologia, quanto aqueles que já se tornaram e passam por dificuldades na hora de gerir equipes.🎯 O projeto age como uma espécie de consultoria, realizando planejamentos, indicando obras para leitura e cursos para indicar o melhor caminho para o usuário de acordo com sua situação específica.
+> O Lidera AI é um agente do Chat GPT que visa auxiliar tanto jovens empreendedores a se tornarem novos líderes em tecnologia, quanto aqueles que já se tornaram e passam por dificuldades na hora de gerir equipes. 🎯 O projeto age como uma espécie de consultoria, realizando planejamentos, indicando obras para leitura e cursos para indicar o melhor caminho para o usuário de acordo com sua situação específica.
 
 ---
 
