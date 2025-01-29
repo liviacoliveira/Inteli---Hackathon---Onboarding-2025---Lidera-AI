@@ -33,7 +33,7 @@
 ---
 
 ## **📚 Bases de Conhecimento**  
-> _[Indique aqui documentos utilizados para o treinamento especializado do agente, se houver]_
+> https://github.com/liviacoliveira/Inteli---Hackathon-Onboarding-2025---AI-Advisor/tree/main/Base%20de%20conhecimentos_
 
 ### **⚠️ Prompts**
 - 📗 (https://github.com/liviacoliveira/Inteli---Hackathon-Onboarding-2025---AI-Advisor/blob/main/prompts.txt)
