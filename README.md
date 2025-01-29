@@ -23,9 +23,9 @@
 
 ## **🤖 Instruções do GPT** 
 > _[Descreva aqui algumas instruções básicas de uso do agente.]_
-1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou requisitos.  
-2. 🛠️ Estruture as perguntas e comandos de forma lógica para facilitar o entendimento.  
-3. 🔍 Sempre especifique os detalhes relevantes ao contexto do projeto.  
+1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou fazer perguntas.  
+2. 🛠️ Estruture os comandos de forma lógica, dando o contexto necessário para facilitar o entendimento. 
+3. 🔍 Seja específico ao procurar exemplos ou simulações.
 4. 🎯 Adapte as interações conforme necessário, mantendo foco nos temas definidos abaixo.  
 
 ---
