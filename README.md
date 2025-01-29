@@ -21,10 +21,10 @@
 ---
 
 ## **🤖 Instruções do GPT** 
-1. 🔹 Utilize uma comunicação **clara e direta** ao relatar dúvidas ou apontar questões.
-🔧 Organize as instruções de maneira coerente, fornecendo contexto para melhor compreensão.
-🔎 Detalhe bem suas buscas por exemplos ou simulações para obter respostas mais precisas.
-🎯 Ajuste as interações conforme necessário, sempre mantendo o foco nos tópicos indicados.
+1. ✏️  Utilize uma comunicação **clara e direta** ao relatar dúvidas ou apontar questões.
+2. 📌 Organize as instruções de maneira coerente, fornecendo contexto para melhor compreensão.
+3. 🧐 Detalhe bem suas buscas por exemplos ou simulações para obter respostas mais precisas.
+4. 🔄 Ajuste as interações conforme necessário, sempre mantendo o foco nos tópicos indicados.
 ---
 
 ## **💡 Temas da Conversa** 
