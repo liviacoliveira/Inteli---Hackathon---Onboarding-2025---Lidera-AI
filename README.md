@@ -7,11 +7,10 @@
 
 ## **👥 Integrantes do Grupo**  
 - [Alice Devens Carvalho](#)
-- [Nome do integrante 2](#)
-- [Nome do integrante 3](#)
+- [João Pedro Gonçalves Corrêa Araujo](#)
 - [Livia Cavalcanti Oliveira](#)
-- [Nome do integrante 5](#)
-- [Nome do integrante 6](#)
+- [Luiz Felipe Paravatti Maciel Hinuy](#)
+- [Sebastián Fernandez Zavalía](#)
 ---
 
 ## **📄 Descrição do Projeto**  
