@@ -1,4 +1,4 @@
-# 🏆 Inteli - Hackathon - Onboarding 2025 - AI Advisor #
+# 🏆 Inteli - Hackathon - Onboarding 2025 - Lidera AI #
 
 ### **🔗 Link do Agente GPT:**  
 > (https://chatgpt.com/g/g-67992d6c586881918ac5795eef095b32-lidera-ai)
@@ -13,9 +13,7 @@
 ---
 
 ## **📄 Descrição do Projeto**  
->  O AI Advisor pretende capacitar profissionais de tecnologia a desenvolverem habilidades de liderança, ajudando-os a crescer em suas carreiras.
->  🎯 O seu propósito é guiar a transição de profissionais técnicos para papéis de liderança, conectando competências ténicas a habilidades de gestão, comunicação e estratégia, buscando trabalhar de acordo com o perfil do usuário atendido.
-> 🚀 O agente busca transformar profissionais técnicos em líderes visionários, promovendo inovação e evolução no setor de tecnologia.
+> O Lidera AI é um agente do Chat GPT que visa auxiliar tanto jovens empreendedores a se tornarem novos líderes em tecnologia, quanto aqueles que já se tornaram e passam por dificuldades na hora de gerir equipes.🎯 O projeto age como uma espécie de consultoria, realizando planejamentos, indicando obras para leitura e cursos para indicar o melhor caminho para o usuário de acordo com sua situação específica.
 
 ---
 
