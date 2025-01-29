@@ -21,11 +21,10 @@
 ---
 
 ## **🤖 Instruções do GPT** 
-1. ✅ Certifique-se de usar **linguagem objetiva** ao descrever problemas ou fazer perguntas.  
-2. 🛠️ Estruture os comandos de forma lógica, dando o contexto necessário para facilitar o entendimento. 
-3. 🔍 Seja específico ao procurar exemplos ou simulações.
-4. 🎯 Adapte as interações conforme necessário, mantendo foco nos temas definidos abaixo.  
-
+1. 🔹 Utilize uma comunicação **clara e direta** ao relatar dúvidas ou apontar questões.
+🔧 Organize as instruções de maneira coerente, fornecendo contexto para melhor compreensão.
+🔎 Detalhe bem suas buscas por exemplos ou simulações para obter respostas mais precisas.
+🎯 Ajuste as interações conforme necessário, sempre mantendo o foco nos tópicos indicados.
 ---
 
 ## **💡 Temas da Conversa** 
