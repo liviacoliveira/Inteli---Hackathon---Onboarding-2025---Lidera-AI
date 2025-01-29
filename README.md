@@ -30,9 +30,8 @@
 ---
 
 ## **💡 Temas da Conversa** 
-> _[Liste aqui alguns possíveis temas que o agente pode conversar.]_
-- 🛠️ **Tema 1:** Descrição breve do tema  
-- 🌐 **Tema 2:** Descrição breve do tema  
+- 🛠️ **Tema 1:** Os passos necessários para se tornar um bom líder.
+- 🌐 **Tema 2:** Habilidades que  
 - 🔒 **Tema 3:** Descrição breve do tema  
 - 📊 **Tema 4:** Descrição breve do tema  
 
