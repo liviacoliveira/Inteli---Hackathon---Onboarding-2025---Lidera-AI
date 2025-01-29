@@ -39,14 +39,12 @@
 - 📗 (https://github.com/liviacoliveira/Inteli---Hackathon-Onboarding-2025---AI-Advisor/blob/main/prompts.txt)
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[]_  
-- 📙 _[]_  
-- 📕 _[Nome ou link da base de conhecimento 3]_  
+- 📗 _[https://pll.harvard.edu/subject/leadership]_
+- 📙 _[(https://abrir.link/Glwff)]_  
+- 📕 _[https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/lideranca-e-gestao-de-equipes]_  
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Link 1](#)  
 - 🔗 [Link 2](#)  
 - 🔗 [Link 3](#)  
 
-
-Sugestão: Crie uma pasta chamada Base de Conhecimentos no repositório e adicione todos os conteúdos relevantes e utilizados dentro dessa pasta. Aponte os links para os arquivos nela.
