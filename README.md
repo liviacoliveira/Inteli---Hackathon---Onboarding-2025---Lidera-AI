@@ -36,12 +36,12 @@
 > https://github.com/liviacoliveira/Inteli---Hackathon-Onboarding-2025---AI-Advisor/tree/main/Base%20de%20conhecimentos_
 
 ### **⚠️ Prompts**
-- 📗 (https://github.com/liviacoliveira/Inteli---Hackathon-Onboarding-2025---AI-Advisor/blob/main/prompts.txt)
+- 📗 https://github.com/liviacoliveira/Inteli---Hackathon-Onboarding-2025---AI-Advisor/blob/main/prompts.txt
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[https://pll.harvard.edu/subject/leadership]_
-- 📙 _[(https://abrir.link/Glwff)]_  
-- 📕 _[https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/lideranca-e-gestao-de-equipes]_  
+- 📗 https://pll.harvard.edu/subject/leadership
+- 📙 https://abrir.link/Glwff
+- 📕 https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/lideranca-e-gestao-de-equipes
 
 ### **📖 Documentações Complementares:**  
 - 🔗 [Link 1](#)  
