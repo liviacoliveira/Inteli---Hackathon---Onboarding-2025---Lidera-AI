@@ -21,7 +21,7 @@
 ---
 
 ## **🤖 Instruções do GPT** 
-1. ✅ Certifique-se de usar **linguagem clara e objetiva** ao descrever problemas ou fazer perguntas.  
+1. ✅ Certifique-se de usar **linguagem objetiva** ao descrever problemas ou fazer perguntas.  
 2. 🛠️ Estruture os comandos de forma lógica, dando o contexto necessário para facilitar o entendimento. 
 3. 🔍 Seja específico ao procurar exemplos ou simulações.
 4. 🎯 Adapte as interações conforme necessário, mantendo foco nos temas definidos abaixo.  
@@ -30,9 +30,9 @@
 
 ## **💡 Temas da Conversa** 
 - 🛠️ **Tema 1:** Os passos necessários para se tornar um bom líder.
-- 🌐 **Tema 2:** Habilidades que  
-- 🔒 **Tema 3:** Descrição breve do tema  
-- 📊 **Tema 4:** Descrição breve do tema  
+- 🌐 **Tema 2:** Habilidades que definem um líder em tecnologia.
+- 🔒 **Tema 3:** Problemas relacionados à tomadas de decisões em cargos de liderança.
+- 📊 **Tema 4:** Como iniciar uma carreira na área de liderança, em meio ao contexto empresarial.
 
 ---
 
@@ -42,8 +42,8 @@
 - 📗 _[link para um arquivo .txt contendo os prompts utilizados no treinamento do agente]_
 
 ### **📘 Principais Referências Utilizadas:**  
-- 📗 _[https://youtu.be/bkYG4DjN7r4]_  
-- 📙 _[https://youtu.be/mJvyfbTiZxU]_  
+- 📗 _[]_  
+- 📙 _[]_  
 - 📕 _[Nome ou link da base de conhecimento 3]_  
 
 ### **📖 Documentações Complementares:**  
