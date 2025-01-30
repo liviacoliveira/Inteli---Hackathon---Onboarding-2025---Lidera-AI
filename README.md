@@ -5,10 +5,10 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- <a href="" >Alice Devens Carvalho</a>
-- <a href="github.com/joaoaraujo2006">Enzo Batagioti Matsui</a>
-- <a href="">João Pedro Gonçalves Corrêa Araujo</a>
-- <a href="">Livia Cavalcanti Oliveira</a>
+- <a href="github.com/alicedevens">Alice Devens Carvalho</a>
+- <a href="">Enzo Batagioti Matsui</a>
+- <a href="github.com/joaoaraujo2006">João Pedro Gonçalves Corrêa Araujo</a>
+- <a href="https://github.com/liviacoliveira">Livia Cavalcanti Oliveira</a>
 - <a href="">Luiz Felipe Paravatti Maciel Hinuy</a>
 - <a href="">Sebastián Fernandez Zavalía</a>[](#)
 ---
