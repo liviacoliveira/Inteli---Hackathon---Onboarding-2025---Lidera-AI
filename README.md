@@ -5,12 +5,12 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- <a href="" style="color: purple;">Alice Devens Carvalho</a>
-- <a href="github.com/joaoaraujo2006" style="color: purple;">Enzo</a>
-- <a href="" style="color: purple;">João Pedro Gonçalves Corrêa Araujo</a>
-- <a href="" style="color: purple;">Livia Cavalcanti Oliveira</a>
-- <a href="" style="color: purple;">Luiz Felipe Paravatti Maciel Hinuy</a>
-- <a href="" style="color: purple;">Sebastián Fernandez Zavalía</a>[](#)
+- <a href="" >Alice Devens Carvalho</a>
+- <a href="github.com/joaoaraujo2006">Enzo Batagioti Matsui</a>
+- <a href="">João Pedro Gonçalves Corrêa Araujo</a>
+- <a href="">Livia Cavalcanti Oliveira</a>
+- <a href="">Luiz Felipe Paravatti Maciel Hinuy</a>
+- <a href="">Sebastián Fernandez Zavalía</a>[](#)
 ---
 
 ## **📄 Descrição do Projeto**  
