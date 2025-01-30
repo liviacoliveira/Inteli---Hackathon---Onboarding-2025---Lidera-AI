@@ -43,8 +43,3 @@
 - 📙 https://abrir.link/Glwff
 - 📕 https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/lideranca-e-gestao-de-equipes
 
-### **📖 Documentações Complementares:**  
-- 🔗 [Link 1](#)  
-- 🔗 [Link 2](#)  
-- 🔗 [Link 3](#)  
-
