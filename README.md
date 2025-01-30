@@ -5,12 +5,12 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- <a href="github.com/alicedevens">Alice Devens Carvalho</a>
+- <a href="https://github.com/alicedevens">Alice Devens Carvalho</a>
 - <a href="">Enzo Batagioti Matsui</a>
-- <a href="github.com/joaoaraujo2006">João Pedro Gonçalves Corrêa Araujo</a>
+- <a href="https://github.com/joaoaraujo2006">João Pedro Gonçalves Corrêa Araujo</a>
 - <a href="https://github.com/liviacoliveira">Livia Cavalcanti Oliveira</a>
 - <a href="">Luiz Felipe Paravatti Maciel Hinuy</a>
-- <a href="">Sebastián Fernandez Zavalía</a>[](#)
+- <a href="https://github.com/sebafz">Sebastián Fernandez Zavalía</a>[](#)
 ---
 
 ## **📄 Descrição do Projeto**  
