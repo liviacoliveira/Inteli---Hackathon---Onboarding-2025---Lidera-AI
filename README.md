@@ -5,7 +5,7 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- [Alice Devens Carvalho](#) (https://github.com/alicedevens)
+- [Alice Devens Carvalho] (https://github.com/alicedevens)
 - [João Pedro Gonçalves Corrêa Araujo](#)
 - [Livia Cavalcanti Oliveira](#)
 - [Luiz Felipe Paravatti Maciel Hinuy](#)
