@@ -5,11 +5,12 @@
 ---
 
 ## **👥 Integrantes do Grupo**  
-- Alice Devens Carvalho (https://github.com/alicedevens)
-- [João Pedro Gonçalves Corrêa Araujo](#)
-- [Livia Cavalcanti Oliveira](#)
-- [Luiz Felipe Paravatti Maciel Hinuy](#)
-- [Sebastián Fernandez Zavalía](#)
+- <a href="" style="color: purple;">Alice Devens Carvalho</a>
+- <a href="github.com/joaoaraujo2006" style="color: purple;">Enzo</a>
+- <a href="" style="color: purple;">João Pedro Gonçalves Corrêa Araujo</a>
+- <a href="" style="color: purple;">Livia Cavalcanti Oliveira</a>
+- <a href="" style="color: purple;">Luiz Felipe Paravatti Maciel Hinuy</a>
+- <a href="" style="color: purple;">Sebastián Fernandez Zavalía</a>[](#)
 ---
 
 ## **📄 Descrição do Projeto**  
